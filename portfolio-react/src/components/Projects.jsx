@@ -90,7 +90,7 @@ export default function Projects() {
           <ProjectCard
             title="Small Python Projects"
             description="A collection of small experimental projects built while exploring interesting Python libraries and tools."
-            link="https://github.com/AashishGupta2007/small-projects"
+            link="https://github.com/AashishGupta2007/portfolio"
           />
 
           <ProjectCard
